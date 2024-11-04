@@ -31,9 +31,9 @@
 
 - 🔭 I’m currently working in **Thoughtworks**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, Flutter, iOS and C++**
+- 💬 Ask me about **Java, React Flutter, iOS and C++**
 
 - 📫 How to reach me **jayabhajayas@gmail.com**
 
