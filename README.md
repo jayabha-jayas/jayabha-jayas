@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, React Flutter, iOS and C++**
+- 💬 Ask me about **Java, React, Flutter, iOS and C++**
 
 - 📫 How to reach me **jayabhajayas@gmail.com**
 
